@@ -1,0 +1,2 @@
+This program determines the distance between two proteins where 'distance' refers to differences/mutations occured. The differences mainly include insertions, deletions, substitutions.
+Given two proteins, 'PLEASANTLY' and 'MEANLY', we have insertion (or deletion) which is indicated by having two proteins with different lenght. Also, it is OK to say that there is a substitutions where M is only observed in the one of the proteins.
